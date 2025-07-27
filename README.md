@@ -1,7 +1,5 @@
 # 📘 Electric Store Pro - User Guide  
 
-![App Interface Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=User+Guide+Overview)  
-
 ## 🏁 Getting Started  
 
 ### 1. Installation  
