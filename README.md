@@ -1,13 +1,8 @@
 # 📘 Electric Store Pro - User Guide  
 
-![App Interface Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=User+Guide+Overview)  
 
 ## 🏁 Getting Started  
 
-### 1. Installation  
-- **Android**: Download from [Google Play](#)  
-- **iOS**: Available on [App Store](#)  
-- **Windows/macOS**: [Desktop version](#)  
 
 ### 2. First-Time Setup  
 1. Launch the app  
